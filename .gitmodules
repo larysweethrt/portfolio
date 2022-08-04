@@ -1,0 +1,3 @@
+[submodule "main-page"]
+	path = main-page
+	url = git@github.com:larysweethrt/portfolio.git
